@@ -62,7 +62,7 @@
 }
 
 .wall{
- color: rgb(134, 196, 161);
+ color: rgb(0, 140, 255);
  font-size: 26px;
 }
 
@@ -73,13 +73,13 @@
  font-weight: bold;
 }
 .pa{
- color: rgb(255, 0, 0);
+ color: rgb(255, 123, 0);
 }
 .pe{
  color: rgb(132, 0, 255);
 }
 .rs{
- color: indigo;
+ color: rgb(179, 6, 6);
 }
 
 .middle-section{

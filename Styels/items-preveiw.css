@@ -11,22 +11,22 @@ img{
 }
 
 
-@media (max-width: 1170px) {
+@media (max-width: 1590px) {
  .all-vertical{
   grid-template-columns: 1fr 1fr 1fr 1fr;
  }
 }
-@media (min-width: 776px) and (max-width: 943px) {
+@media (min-width: 976px) and (max-width: 1350px) {
  .all-vertical{
   grid-template-columns: 1fr 1fr 1fr;
  }
 }
-@media (min-width: 546px) and (max-width: 775px) {
+@media (min-width: 646px) and (max-width: 975px) {
  .all-vertical{
   grid-template-columns: 1fr 1fr;
  }
 }
-@media (max-width: 545px) {
+@media (max-width: 645px) {
  .all-vertical{
   grid-template-columns: 1fr;
  }

@@ -45,7 +45,7 @@ To view the website locally, follow these steps:
 
 ## Contributing
 
-Contributions are welcome! If you have any suggestions or find any issues, please feel free to open a pull request or submit an issue.
+Contributions are not welcome! It was my personal wrok while learning HTML and CSS
 
 ## Author
 
